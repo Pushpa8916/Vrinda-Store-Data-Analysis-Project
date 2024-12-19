@@ -58,7 +58,7 @@ Six pivot tables were created to summarise the data and help identify trends in 
 Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table. For user friendly and interactive experience 3 "Slicers" were added.
 
 Below is a snippet of the final dashboard in Excel.
-![Vrinda Dashboard]
+![Vrinda Dashboard]Vrinda Dashboard.JPG
 
 ## Insights
 
